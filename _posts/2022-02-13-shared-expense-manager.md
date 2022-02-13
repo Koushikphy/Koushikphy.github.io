@@ -18,7 +18,7 @@ excerpt: "An Android and iOS app for managing group shared expenses."
 
 _An Android and iOS app for managing group shared expenses._
 
-<img src='assets/images/mics/share-app-mock.png'>  
+<img src='/assets/images/mics/share-app-mock.png'>  
 
 
 

@@ -15,7 +15,7 @@ classes: wide
 
 
 
-<img src='assets/images/mics/bezier_screenshot.gif'>  
+<img src='/assets/images/mics/bezier_screenshot.gif'>  
 
 
 An example showing [Bézier Curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) of any order using [De Casteljau's algorithm](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm) of applying recursive [linear interpolation (lerp)](https://en.wikipedia.org/wiki/Linear_interpolation) between a given set of control points. First, a group of linearly interpolating points is calculated between the pairs of consecutive data points. Then, those points are used as new control points to calculate the second set of linearly interpolating points. This method is applied repeatedly until the point tracing the Bézier Curve is obtained. In the code here, all those intermediate interpolating points and lines are shown to understand the method easily. Although the algorithm is computationally expensive for larger use, due to its recursive nature, it is numerically very stable and easy to understand and interpret geometrically. 

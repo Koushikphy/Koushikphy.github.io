@@ -20,7 +20,7 @@ excerpt: "A chrome/firefox extension to quickly track the latest statistics rega
 _A chrome/firefox extension to quickly track the latest statistics regarding the Coronavirus disease._
 
 
-<img src='assets/images/covidb/screenshot.png'>  
+<img src='/assets/images/covidb/screenshot.png'>  
 
 This extension uses real time statistics from worldmeters (API: <a href='https://covid19-docs.chrismichael.now.sh/'>https://covid19-docs.chrismichael.now.sh/</a> ) and data from <a href='https://www.covid19india.org'>https://www.covid19india.org</a>  (API: <a href='https://api.covid19india.org/'>https://api.covid19india.org/</a> ) to show coronavirus statistics for India and Worldwide. Current confimed cases in India is shown on extension badge.  
 
