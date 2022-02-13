@@ -22,8 +22,8 @@ _An Android and iOS app for managing group shared expenses._
 
 
 
-A Simeple app for managing group shared expenses. Just add users group and categories, and enter individual expense records to keep track of the group shares.
-Built with Flutter framework, this app can be compiled for both Andoroid and iOS.
+A Simple app for managing group shared expenses. Just add users group and categories, and enter individual expense records to keep track of the group shares.
+Built with Flutter framework, this app can be compiled for both Android and iOS.
 
 
 

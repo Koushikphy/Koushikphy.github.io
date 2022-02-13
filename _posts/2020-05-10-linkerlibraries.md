@@ -28,7 +28,7 @@ ld --verbose | grep SEARCH_DIR
 ```  
 
 ## Common problem: cannot find `-lfftw3`
-One very common problem we face while linking libraries is, it fails to link the library, while the library is installed properly. It happens beacuse the linker can not find the file in available path or the library is installed with different names. If the file is not available in the default path then its quite easy to provide the path with `-L`. But if the file is installed with different name usually, with a version name at the end, then its probably best to create a symbolic link of the file at a proper location.  
+One very common problem we face while linking libraries is, it fails to link the library, while the library is installed properly. It happens because the linker can not find the file in available path or the library is installed with different names. If the file is not available in the default path then its quite easy to provide the path with `-L`. But if the file is installed with different name usually, with a version name at the end, then its probably best to create a symbolic link of the file at a proper location.  
 ### 1. Finding the installed files
 Before creating the symbolic link, we need to find location and name of the file, installed as a library. If we know then library is `fftw3` then the file name must be `libfftw3.so` or something very similar, like this `libfftw3.so.3.5.1`, the number at the end being the version number. So, simply search for this file in your system
 ```
@@ -40,6 +40,6 @@ Once you find the location and name, create a soft symbolic link in a place avai
 ```
 ln -s /path_to_file/libfftw.so.3.5.1 /path_available_to_linker/libfftw.so
 ```
-Now the linker utility will easily find the symolic link and from there the actual library files.  
+Now the linker utility will easily find the symbolic link and from there the actual library files.  
 ##### Useful Links:
 <a href='https://linux.die.net/man/1/ld'>https://linux.die.net/man/1/ld</a>

@@ -3,8 +3,7 @@ title: "Projects"
 layout: splash
 permalink: /projects/
 date: 2020-08-01
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+
 feature_row1:
   - image_path: assets/images/ide/screenshot.gif
     alt: "Interactive Data Editor"
@@ -17,7 +16,7 @@ feature_row2:
   - image_path: assets/images/covidb/screenshot.png
     alt: "COVID-19 Browser extension"
     title: "COVID-19 Browser extension"
-    excerpt: 'A chorme/firefox extension to quickly get information about Coronavirus disease'
+    excerpt: 'A chrome/firefox extension to quickly get information about Coronavirus disease'
     url: "https://github.com/Koushikphy/COVID19-Browser-Extension"
     btn_label: "Learn More"
     btn_class: "btn--primary"

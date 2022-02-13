@@ -1,9 +1,11 @@
 ---
 title: "Things to do after installing ubuntu"
-tags: [ubuntu, softwares]
+tags: 
+    - ubuntu
+    - softwares
 date: 2019-05-19
-toc: true
-toc_sticky: true
+toc: false
+# toc_sticky: true
 ---
 Ubuntu is a great choice for a linux and the most popular one too. But just after installing ubuntu you have to set it up properly before using it. Now the following description are listed as the things I like to do after installing a fresh ubuntu installation, but the set up is completely depend on the user's choice and how they want to use their system. you can skip some steps if you feel you don't need them.
 
@@ -23,7 +25,7 @@ gsettings set org.gnome.system.proxy.https port port
 ```
 
 ### b. Setup environment proxy
-Open the file `/etc/apt/apt.conf` or creat if not exist and put the following lines. Also add the same lines in `/etc/environment`
+Open the file `/etc/apt/apt.conf` or create if not exist and put the following lines. Also add the same lines in `/etc/environment`
 ```bash
 Acquire::http::proxy "http://username:password@proxy:port";
 Acquire::https::proxy "http://username:password@proxy:port";
@@ -69,7 +71,7 @@ Install all the above mentioned softwares by running in terminal,
 sudo apt-get install ubuntu-restricted-extras vlc uget gfortran gnuplot python-pip vim python-dev gnome-tweak-tool openssh-server okular libatlas-base-dev liblapack-dev libblas-dev nodejs npm texlive-full texmaker texstudio
 ```
 
-## 4. Install gnome shelll extensions
+## 4. Install gnome shell extensions
 Gnome shell extensions are very useful for customizing ubuntu as your choice. These are the shell extensions I like to use
 1. `Alternate TAB` : Prevent alt-TAB for switching between windows from different workspaces.
 2. `Caffine` : Switch on/off auto turning off of the monitor
@@ -106,7 +108,7 @@ sudo apt install numix-icon-theme-circle
 Now open ubuntu tweak tool and set up new icons from appearance menu.
 
 ## 8. Setting up git
-If you are a programmer and living in 2019 then you must be using `git` for manging your projects and programmes. Install and setup git by 
+If you are a programmer and living in 2019 then you must be using `git` for managing your projects and programmes. Install and setup git by 
 ```
 sudo apt install git
 git config --global user.name "Your Name"
@@ -129,12 +131,12 @@ I love VS Code text editor. Its an all in one package that is more like an IDE t
 10. Open native terminal
 11. Path Intellisense
 12. Python  
-Also my VS Code settings are availabe [here](https://gist.github.com/Koushikphy/f91ff8cf61953360c6eebd264eef7d8c).
+Also my VS Code settings are available [here](https://gist.github.com/Koushikphy/f91ff8cf61953360c6eebd264eef7d8c).
 
 
 
 ## 10. Some smaller tweaks and settings
-### a. Isolate windows for differnt workspaces
+### a. Isolate windows for different workspaces
 ```
 gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true
 ```

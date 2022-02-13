@@ -13,7 +13,7 @@ classes: wide
 
 ---
 
-
+Live demo [https://koushikphy.github.io/BezierCurve/](https://koushikphy.github.io/BezierCurve/).__
 
 <img src='/assets/images/mics/bezier_screenshot.gif'>  
 
