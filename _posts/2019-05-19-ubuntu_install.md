@@ -3,6 +3,8 @@ title: "Things to do after installing ubuntu"
 tags: 
     - ubuntu
     - softwares
+category:
+    - Linux
 date: 2019-05-19
 toc: false
 # toc_sticky: true

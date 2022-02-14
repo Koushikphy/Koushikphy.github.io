@@ -1,10 +1,8 @@
 ---
 title: "System Status Checker"
 tags: 
-    - android-app
-    - flutter
-    - dart
-    - expense-manager
+    - django
+    - system
 category:
     - Django-Apps
 date: 2022-02-13
