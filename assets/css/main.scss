@@ -47,7 +47,6 @@ html {
 
 .masthead {
     &__inner-wrap {
-
         padding: 0.7em ; // change to whatever
       
     }
@@ -63,12 +62,9 @@ html {
   }
 }
 
-.page_content{
-  padding-top: 2em;
-}
 
 .page__content{
-  padding-top: 2rem !important;
+  padding-top: 1rem !important;
 }
 
 
@@ -99,4 +95,8 @@ html {
 }
 .page{
   padding-right: 0!important;
+}
+
+table,code{
+  font-size: 1em !important;
 }
