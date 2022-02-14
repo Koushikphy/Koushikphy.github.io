@@ -74,6 +74,7 @@ classes: wide
 
 
 ### vi command line flags
+
 | Command      | Description |
 | ----------- | ----------- |
 | `vi -o file1 file2`      | Open files in horizontal split       |
