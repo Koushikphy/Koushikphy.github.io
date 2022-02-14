@@ -20,6 +20,15 @@ feature_row:
     url: "https://github.com/Koushikphy/COVID19-Browser-Extension"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+  - image_path: assets/images/mics/share-app-mock.png
+    alt: "Shared Expense Manager"
+    title: "Shared Expense Manager"
+    excerpt: 'An Android and iOS app for managing group shared expenses.'
+    url: "https://github.com/Koushikphy/Shared-Expense-Manager"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+
 
 feature_row1:
   - image_path: assets/images/ide/screenshot.gif
@@ -41,6 +50,3 @@ feature_row2:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row1" type="left" %}
-
-{% include feature_row id="feature_row2" type="right" %}
