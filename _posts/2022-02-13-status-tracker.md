@@ -5,6 +5,7 @@ tags:
     - system
 category:
     - Django-Apps
+    - Software-Apps
 date: 2022-02-13
 toc: false
 layout: single

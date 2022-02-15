@@ -6,7 +6,7 @@ tags:
     - dart
     - expense-manager
 category:
-    - Apps
+    - Software-Apps
 date: 2022-02-13
 toc: false
 layout: single

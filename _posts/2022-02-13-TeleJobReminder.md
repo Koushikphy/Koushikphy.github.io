@@ -1,5 +1,5 @@
 ---
-title: "TeleJobReminder: A Job Reminder Bot"
+title: "TeleJobReminder: A Telegram Job Reminder Bot"
 tags: 
     - Telegram-bot
     - heroku
@@ -8,6 +8,7 @@ date: 2022-02-13
 toc: false
 layout: single
 classes: wide
+category: TelegramBot
 excerpt: "A Telegram bot that keeps track of your computer jobs."
 # link: https://github.com/Koushikphy/TeleJobReminder
 
