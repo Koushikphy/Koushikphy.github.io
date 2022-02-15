@@ -12,6 +12,9 @@ toc: false
 layout: single
 classes: wide
 # link: https://github.com/Koushikphy/Shared-Expense-Manager
+excerpt: Common Matplotlib commands to get started
+---
+Common Matplotlib commands to get started  
 
 ---
 

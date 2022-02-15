@@ -12,7 +12,7 @@ toc: false
 layout: single
 classes: wide
 # link: https://github.com/Koushikphy/Shared-Expense-Manager
-
+excerpt : MPI Cheatsheet for Fortran
 ---
 ### MPI Cheatsheet for Fortran
 

@@ -10,7 +10,7 @@ toc: false
 layout: single
 classes: wide
 # link: https://koushikphy.github.io/BezierCurve/
-
+excerpt: Visualizing Bézier Curves
 ---
 
 Live demo [https://koushikphy.github.io/BezierCurve/](https://koushikphy.github.io/BezierCurve/).__

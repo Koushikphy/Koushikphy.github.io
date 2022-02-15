@@ -17,7 +17,7 @@ classes: wide
 
 
 
-### vi commands
+## vi commands
 
 | Command      | Description |
 | ----------- | ----------- |
@@ -73,7 +73,7 @@ classes: wide
 
 
 
-### vi command line flags
+## vi command line flags
 
 | Command      | Description |
 | ----------- | ----------- |
@@ -83,6 +83,6 @@ classes: wide
 | `vi -x file1`      | Open file with encryption       |
 
 
-### Open vi directly to a line number:
+## Open vi directly to a line number:
 Install https://github.com/bogado/file-line and use `vi my_file.txt:51` to open the file and go directly to line number 51
 

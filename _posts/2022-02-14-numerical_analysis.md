@@ -10,7 +10,11 @@ date: 2022-02-14
 toc: false
 layout: single
 classes: wide
+excerpt: Numerical analysis problem for beginner to advanced users
 # link: https://github.com/Koushikphy/Shared-Expense-Manager
+
+---
+Numerical analysis problem for beginner to advanced users  
 
 ---
 

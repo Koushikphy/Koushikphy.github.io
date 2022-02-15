@@ -10,7 +10,7 @@ toc: false
 layout: single
 classes: wide
 # link: https://github.com/Koushikphy/Neat-Cubic-polynomial-property
-
+excerpt: A Neat Cubic Polynomial Property Visualization
 ---
 
 

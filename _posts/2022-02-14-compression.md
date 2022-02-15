@@ -10,7 +10,7 @@ toc: false
 layout: single
 classes: wide
 # link: https://github.com/Koushikphy/Shared-Expense-Manager
-
+excerpt: Commands and utilities for files and folder compression
 ---
 ## Compress files
 ### Using `gzip`: 

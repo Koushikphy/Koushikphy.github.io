@@ -14,7 +14,7 @@ classes: wide
 
 ---
 
-## GnuPlot Cheatsheet
+## GnuPlot Cheatsheet  
 _Provided gnuplot version above 4.6_
 
 

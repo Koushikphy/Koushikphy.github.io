@@ -10,6 +10,7 @@ date: 2020-05-10
 toc: false
 layout: single
 classes: wide
+excerpt: Linking libraries during building executable
 ---
 
 Linking libraries is very common in compiling source codes. `ld` or The GNU Linker is very useful in this regard. But to properly link the libraries to the source codes understanding the linker utility is important and the options available to it.
