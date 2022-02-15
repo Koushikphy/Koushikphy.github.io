@@ -54,5 +54,5 @@ feature_row1:
 ---
 
 {% include feature_row %}
-{% include feature_row1  id="feature_row1" %}
+{% include feature_row  id="feature_row1" %}
 
