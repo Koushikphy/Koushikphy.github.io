@@ -13,7 +13,7 @@ classes: wide
 excerpt: Visualizing Bézier Curves
 ---
 
-Live demo [https://koushikphy.github.io/BezierCurve/](https://koushikphy.github.io/BezierCurve/).__
+Live demo [https://koushikphy.github.io/BezierCurve/](https://koushikphy.github.io/BezierCurve/).
 
 <img src='/assets/images/mics/bezier_screenshot.gif'>  
 
