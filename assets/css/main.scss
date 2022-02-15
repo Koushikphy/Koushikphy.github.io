@@ -106,4 +106,9 @@ table,code{
 }
 .archive__item-teaser img{
   height: 10rem;
+  object-fit: contain;
+}
+
+.archive__item-excerpt{
+  height: 5em;
 }
