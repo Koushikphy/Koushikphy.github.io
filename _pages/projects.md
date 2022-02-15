@@ -28,8 +28,6 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-
-
 feature_row1:
   - image_path: assets/images/mics/telegram.jpeg
     alt: "TeleJobReminder"
@@ -56,5 +54,5 @@ feature_row1:
 ---
 
 {% include feature_row %}
-{% include feature_row1 %}
+{% include feature_row1  id="feature_row1" %}
 
