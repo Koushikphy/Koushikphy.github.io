@@ -63,7 +63,7 @@ feature_row2:
 
   - image_path: assets/images/mics/canvas_fun.gif
     alt: "Fun With Canvas"
-    title: "System Status Checker"
+    title: "Fun With Canvas"
     excerpt: 'Experimenting with HTML5 Canvas'
     url: "https://github.com/Koushikphy/FunWithCanvas"
     btn_label: "Learn More"
