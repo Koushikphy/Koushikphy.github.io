@@ -52,7 +52,7 @@ feature_row1:
     btn_class: "btn--primary"
 
 
-feature_row1:
+feature_row2:
   - image_path: assets/images/mics/github.png
     alt: "ADT Program"
     title: "ADT Program"
@@ -81,4 +81,5 @@ feature_row1:
 
 {% include feature_row %}
 {% include feature_row  id="feature_row1" %}
+{% include feature_row  id="feature_row2" %}
 
