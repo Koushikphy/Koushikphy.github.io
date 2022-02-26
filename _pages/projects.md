@@ -51,6 +51,32 @@ feature_row1:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
+
+feature_row1:
+  - image_path: assets/images/mics/github.png
+    alt: "ADT Program"
+    title: "ADT Program"
+    excerpt: 'A Telegram bot that keeps track of your computer jobs.'
+    url: "https://github.com/AdhikariLAB/ADT-Program"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/mics/canvas_fun.gif
+    alt: "Fun With Canvas"
+    title: "System Status Checker"
+    excerpt: 'Experimenting with HTML5 Canvas'
+    url: "https://github.com/Koushikphy/FunWithCanvas"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/mics/bezier_screenshot.gif
+    alt: "Bézier Curves Visualization"
+    title: "Bézier Curves Visualization"
+    excerpt: 'Bézier Curves Visualization applying recursive linear interpolation'
+    url: "https://koushikphy.github.io/BezierCurve/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row %}
