@@ -56,7 +56,7 @@ feature_row2:
   - image_path: assets/images/mics/github.png
     alt: "ADT Program"
     title: "ADT Program"
-    excerpt: 'A Telegram bot that keeps track of your computer jobs.'
+    excerpt: 'A Generalized Algorithm and Program for Beyond Born-Oppenheimer Equations of 'N' Dimensional Sub-Hilbert Space'
     url: "https://github.com/AdhikariLAB/ADT-Program"
     btn_label: "Learn More"
     btn_class: "btn--primary"
