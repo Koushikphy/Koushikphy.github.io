@@ -60,7 +60,6 @@ feature_row2:
     url: "https://github.com/AdhikariLAB/ADT-Program"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
   - image_path: assets/images/mics/canvas_fun.gif
     alt: "Fun With Canvas"
     title: "Fun With Canvas"
@@ -68,7 +67,6 @@ feature_row2:
     url: "https://github.com/Koushikphy/FunWithCanvas"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
   - image_path: assets/images/mics/bezier_screenshot.gif
     alt: "Bézier Curves Visualization"
     title: "Bézier Curves Visualization"
@@ -76,7 +74,6 @@ feature_row2:
     url: "https://koushikphy.github.io/BezierCurve/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
 ---
 
 {% include feature_row %}
