@@ -90,6 +90,39 @@
                 display: none;
             }
         }
+
+        .keys{
+            padding-left: 1em;
+            font-size: 1.25em;
+        }
+        .key {
+            font-family: "Courier New";
+            font-weight: bold;
+            font-size: 21px;
+            /* font-size: 1.2pc; */
+            display: inline-block;
+            width: 35%;
+            font-weight: bold;
+            
+        }
+
+        .keys li {
+            background: rgb(255, 255, 255);
+            padding-left: 5px;
+            padding-bottom: 0.25em;
+        }
+
+        .keys li:nth-child(odd) {
+            background: #f1f1f2;
+        }
+
+        .keys li:hover {
+            background: #dadada;
+        }
+
+        li {
+            padding-top: 10px;
+        }
     </style>
 </head>
 
@@ -159,6 +192,8 @@
                 <li><a href="#export-as-image">Export plot as image</a> </li>
                 <li><a href="#spreadsheet">Work with spreadsheet</a> </li>
                 <li><a href="#3d-plotter">Work 3D plotter</a> </li>
+                <li><a href="#keyshortcuts">Keyboard Shortcuts</a> </li>
+                
             </ul>
         </div>
         <div id="main">
@@ -378,6 +413,50 @@
                 <video class="lazy" width="100%" height="500" controls="controls">
                     <source data-src="images/plotter.mp4" type="video/mp4">
                 </video>
+            </div>
+
+
+            <div class="tut keys">
+                <h2 id="keyshortcuts">Keyboard Shortcuts</h2>
+                <p>
+                    <ol>
+
+                    <li><label class="key">Ctrl+O</label> Open file.</li>
+                    <li><label class='key'>Shift+Ctrl+O</label> Add new file. </li>
+                    <li><label class="key">Ctrl+S</label> Save file.</li>
+                    <li><label class="key">Shift+Ctrl+S</label> Save As.</li>
+                    <li><label class="key">Ctrl+R</label> Reload the window.</li>
+                    <li><label class="key">Ctrl+Q</label> Close the application.</li>
+                    <li><label class="key">Ctrl+K</label> Open plot setting window.</li>
+                    <li><label class="key">Ctrl+B</label> Toggle plot list dashboard.</li>
+                    <li><label class="key">F11</label> Toggle fullscreen.</li>
+                    <li><label class="key">Ctrl+TAB</label> Switch between plots.</li>
+                    <li><label class="key">Ctrl+W</label> Toggle axis of projection for 3D data.</li>
+                    <li><label class="key">&lt;space></label> Auto-scale axes.</li>
+                    <li><label class="key">Z</label> Zoom mode.</li>
+                    <li><label class="key">S</label> Selection mode.</li>
+                    <li><label class="key">Arrow Up</label> Move up selected points.</li>
+                    <li><label class="key">Arrow Down</label> Move down selected points.</li>
+                    <li><label class="key">D</label> Smooth Out using Spline Interpolation.</li>
+                    <li><label class="key">M</label> Smooth Out using Moving Average method. </li>
+                    <li><label class="key">E</label> Smooth Out using a local Quadratic function.</li>
+                    <li><label class="key">C</label> Change Sign.</li>
+                    <li><label class="key">X</label> Remove selected data.</li>
+                    <li><label class="key">Ctrl+Z</label> Undo.</li>
+                    <li><label class="key">Shift+Ctrl+Z</label> Redo.</li>
+                    <li><label class="key">&lt;dot></dot></label> Move slider up.</li>
+                    <li><label class="key">&lt;comma></label> Move slider down.</li>
+                    <li><label class="key">P</label> Swap data between the selected lines.</li>
+                    <li><label class="key">Alt+S</label> Quickly apply corrected approximation.</li>
+                    <li><label class="key">Ctrl+A</label> Select intermediate points.</li>
+                    <li><label class="key">Ctrl+C</label> Copy values from current 2D projection.</li>
+                    <li><label class="key">Ctrl+V</label> Paste copied values.</li>
+                    <li><label class="key">Ctrl+ Left/Right Arrow</label> Repeat selected points to left or right.</li>
+                    <li><label class="key">Shift+ Left/Right Arrow</label> Mirror selected points to left or right.</li>
+                </ol>
+
+                </p>
+
             </div>
 
         </div>
