@@ -3,7 +3,7 @@ title: "About Me"
 permalink: /
 ---
 
-Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, Indian Association for the Cultivation of Science. I love learning about technologies and building tools to automate stuff. Check out the [Projects page](/) to know more about my works
+Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, Indian Association for the Cultivation of Science, Kolkata, India. I love learning about technologies and building tools to automate stuff. Check out the [Projects page](/projects) to know more about my works.
 
 
 
