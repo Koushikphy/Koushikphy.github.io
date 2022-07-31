@@ -33,14 +33,14 @@ feature_row1:
     alt: "TeleJobReminder"
     title: "TeleJobReminder"
     excerpt: 'A Telegram bot that keeps track of your computer jobs.'
-    url: "https://github.com/Koushikphy/TeleJobReminder"
+    url: "https://t.me/JobReminderBot"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/mics/canvas_fun.gif
     alt: "Fun With Canvas"
     title: "Fun With Canvas"
     excerpt: 'Experimenting with HTML5 Canvas'
-    url: "https://github.com/Koushikphy/FunWithCanvas"
+    url: "https://koushikphy.github.io/FunWithCanvas/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/mics/bezier_screenshot.gif

@@ -1,9 +1,9 @@
 ---
-permalink: /about/
 title: "About Me"
+permalink: /
 ---
 
-Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, Indian Association for the Cultivation of Science. I love learning about technologies and building tools to automate stuff.
+Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, Indian Association for the Cultivation of Science. I love learning about technologies and building tools to automate stuff. Check out the [Projects page](/) to know more about my works
 
 
 
@@ -11,7 +11,7 @@ Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, 
 - __Numerical Programming__: 
   * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn Matplotlib, Seaborn etc.)
 - __High Performance Computing__: 
-  * OpenMP, MPI, Job Scheduler (PBS, Slurm)
+  * OpenMP, MPI, CUDA, Job Scheduler (PBS, Slurm)
 - __Full Stack Web development__: 
   * _Front-end_: HTML, CSS, Javascript, React-Next JS
   * _Backend_: NodeJS, Django, Flask
