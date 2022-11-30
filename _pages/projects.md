@@ -76,10 +76,53 @@ feature_row2:
     btn_class: "btn--primary"
 
 
+feature_row3:
+  - image_path: assets/images/mics/telegram.jpeg
+    alt: "TeleSpy"
+    title: "TeleSpy"
+    excerpt: "Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot."
+    url: "https://github.com/Koushikphy/TeleSpy"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/github.png
+    alt: "Open-Image"
+    title: "Open-Image"
+    excerpt: 'A chrome extension to open product review images in full screen'
+    url: "https://github.com/Koushikphy/Open-Image"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/github.png
+    alt: "kfutils"
+    title: "kfutils"
+    excerpt: 'A common file operation utility'
+    url: "https://github.com/Koushikphy/kfutils"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+
+feature_row4:
+  - image_path: assets/images/mics/telegram.jpeg
+    alt: "kbib"
+    title: "kbib"
+    excerpt: "A command line tool to get bibtex information from DOIs and PDFs"
+    url: "https://github.com/Koushikphy/kbib"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/github.png
+    alt: "mfig"
+    title: "mfig"
+    excerpt: 'A tool for merging multiple figures into one'
+    url: "https://github.com/Koushikphy/mfig"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+
 
 ---
 
 {% include feature_row %}
 {% include feature_row  id="feature_row1" %}
 {% include feature_row  id="feature_row2" %}
+{% include feature_row  id="feature_row3" %}
+{% include feature_row  id="feature_row4" %}
 
