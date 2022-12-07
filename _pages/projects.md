@@ -92,15 +92,23 @@ feature_row3:
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/mics/github.png
+    alt: "Django To Do App"
+    title: "Django To Do App"
+    excerpt: 'A To Do App & API built with Django 3 and django-rest-framework'
+    url: "https://github.com/Koushikphy/Django-ToDo-App"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+
+
+feature_row4:
+  - image_path: assets/images/mics/github.png
     alt: "kfutils"
     title: "kfutils"
     excerpt: 'A common file operation utility'
     url: "https://github.com/Koushikphy/kfutils"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
-
-feature_row4:
   - image_path: assets/images/mics/telegram.jpeg
     alt: "kbib"
     title: "kbib"
