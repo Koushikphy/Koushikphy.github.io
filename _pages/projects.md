@@ -67,16 +67,6 @@ feature_row2:
     url: "https://github.com/Koushikphy/System-Status-Checker"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: assets/images/mics/github.png
-    alt: "PESMan"
-    title: "PESMan"
-    excerpt: 'A program suite to manage global PES calculations'
-    url: "https://github.com/Koushikphy/PESMan"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-
-
-feature_row3:
   - image_path: assets/images/mics/telegram.jpeg
     alt: "TeleSpy"
     title: "TeleSpy"
@@ -84,24 +74,9 @@ feature_row3:
     url: "https://github.com/Koushikphy/TeleSpy"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: assets/images/mics/github.png
-    alt: "Open-Image"
-    title: "Open-Image"
-    excerpt: 'A chrome extension to open product review images in full screen'
-    url: "https://github.com/Koushikphy/Open-Image"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/mics/github.png
-    alt: "Django To Do App"
-    title: "Django To Do App"
-    excerpt: 'A To Do App & API built with Django 3 and django-rest-framework'
-    url: "https://github.com/Koushikphy/Django-ToDo-App"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 
 
-
-feature_row4:
+feature_row3:
   - image_path: assets/images/mics/github.png
     alt: "kfutils"
     title: "kfutils"
@@ -124,6 +99,29 @@ feature_row4:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
+
+feature_row4:
+  - image_path: assets/images/mics/github.png
+    alt: "PESMan"
+    title: "PESMan"
+    excerpt: 'A program suite to manage global PES calculations'
+    url: "https://github.com/Koushikphy/PESMan"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/github.png
+    alt: "Open-Image"
+    title: "Open-Image"
+    excerpt: 'A chrome extension to open product review images in full screen'
+    url: "https://github.com/Koushikphy/Open-Image"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/github.png
+    alt: "Django To Do App"
+    title: "Django To Do App"
+    excerpt: 'A To Do App & API built with Django 3 and django-rest-framework'
+    url: "https://github.com/Koushikphy/Django-ToDo-App"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 
 
 ---
