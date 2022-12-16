@@ -2,7 +2,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Quick Links"
-    url: /qlinks/
+    url: /quick_links/
   - title: "Projects"
     url: /projects/
   - title: "About"
