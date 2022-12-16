@@ -6,7 +6,7 @@ layout: single
 classes: wide
 excerpt: "Cheatsheet"
 permalink: /qlinks/
-toc_sticky: true
+toc_sticky: false
 ---
 
 ## 🌩️ CheatSheets
