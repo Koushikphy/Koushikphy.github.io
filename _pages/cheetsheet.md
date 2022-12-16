@@ -3,8 +3,8 @@ title: "Quick Links"
 date: 2022-12-16
 toc: true
 # layout: single
-excerpt: "Cheatsheet"
-permalink: /qlinks/
+excerpt: "Quick Links"
+permalink: /quick_links/
 toc_sticky: false
 ---
 
