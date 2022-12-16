@@ -2,7 +2,7 @@
 title: "Quick Links"
 date: 2022-12-16
 toc: true
-layout: single
+# layout: single
 excerpt: "Cheatsheet"
 permalink: /qlinks/
 toc_sticky: false
