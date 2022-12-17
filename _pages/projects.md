@@ -27,8 +27,6 @@ feature_row:
     url: "https://github.com/Koushikphy/Shared-Expense-Manager"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
-feature_row1:
   - image_path: assets/images/mics/telegram.jpeg
     alt: "TeleJobReminder"
     title: "TeleJobReminder"
@@ -36,6 +34,8 @@ feature_row1:
     url: "https://t.me/JobReminderBot"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+
+feature_row1:
   - image_path: assets/images/mics/canvas_fun.gif
     alt: "Fun With Canvas"
     title: "Fun With Canvas"
@@ -50,9 +50,6 @@ feature_row1:
     url: "https://koushikphy.github.io/BezierCurve/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
-
-feature_row2:
   - image_path: assets/images/mics/github.png
     alt: "ADT Program"
     title: "ADT Program"
@@ -67,6 +64,9 @@ feature_row2:
     url: "https://github.com/Koushikphy/System-Status-Checker"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+
+
+feature_row2:
   - image_path: assets/images/mics/telegram.jpeg
     alt: "TeleSpy"
     title: "TeleSpy"
@@ -74,9 +74,6 @@ feature_row2:
     url: "https://github.com/Koushikphy/TeleSpy"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
-
-feature_row3:
   - image_path: assets/images/mics/github.png
     alt: "kfutils"
     title: "kfutils"
@@ -100,7 +97,7 @@ feature_row3:
     btn_class: "btn--primary"
 
 
-feature_row4:
+feature_row3:
   - image_path: assets/images/mics/github.png
     alt: "PESMan"
     title: "PESMan"
@@ -130,5 +127,4 @@ feature_row4:
 {% include feature_row  id="feature_row1" %}
 {% include feature_row  id="feature_row2" %}
 {% include feature_row  id="feature_row3" %}
-{% include feature_row  id="feature_row4" %}
 
