@@ -7,7 +7,7 @@ tags:
 category:
     - Linux
 date: 2020-05-10
-toc: false
+toc: true
 layout: single
 classes: wide
 excerpt: Linking libraries during building executable
