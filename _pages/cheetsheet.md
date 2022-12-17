@@ -5,7 +5,7 @@ toc: true
 # layout: single
 excerpt: "Quick Links"
 permalink: /quick_links/
-toc_sticky: false
+toc_sticky: true
 ---
 
 ## CheatSheets
@@ -38,5 +38,9 @@ toc_sticky: false
 
 &nbsp;
 
-## Cool things from around the internet
-https://giza.mused.org/en/guided/266/inside-the-great-pyramid
+## Cool websites
+- [Inside the Great Pyramid](https://giza.mused.org/en/guided/266/inside-the-great-pyramid)
+- [Notable People](https://tjukanovt.github.io/notable-people)
+- [List of common misconceptions](https://en.m.wikipedia.org/wiki/List_of_common_misconceptions)
+- [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
+- [Interactive Music Theory Tools](https://muted.io/)
