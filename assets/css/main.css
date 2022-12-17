@@ -84,18 +84,10 @@ html {
 
 
 
-/* .page,.archive {
-  @include breakpoint($large) {
-    width: calc(100% - #{$right-sidebar-width-narrow});
-  }
 
-  @include breakpoint($x-large) {
-    width: calc(100% - 250px);
-  }
-}
 .page{
   padding-right: 0!important;
-} */
+} 
 
 table,code{
   font-size: 1em !important;
