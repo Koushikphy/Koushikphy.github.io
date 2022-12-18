@@ -44,3 +44,5 @@ toc_sticky: true
 - [List of common misconceptions](https://en.m.wikipedia.org/wiki/List_of_common_misconceptions)
 - [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
 - [Interactive Music Theory Tools](https://muted.io/)
+- [Radio Garden](http://radio.garden/)
+- [The Useless Web](https://theuselessweb.com/)
