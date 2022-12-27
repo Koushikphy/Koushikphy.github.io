@@ -84,7 +84,7 @@ feature_row3:
     url: "https://github.com/Koushikphy/kfutils"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: assets/images/mics/telegram.jpeg
+  - image_path: assets/images/mics/github.png
     alt: "kbib"
     title: "kbib"
     excerpt: "A command line tool to get bibtex information from DOIs and PDFs"
