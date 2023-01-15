@@ -39,10 +39,11 @@ toc_sticky: true
 &nbsp;
 
 ## Cool websites
+- [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
+- [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
 - [Inside the Great Pyramid](https://giza.mused.org/en/guided/266/inside-the-great-pyramid)
 - [Notable People](https://tjukanovt.github.io/notable-people)
 - [List of common misconceptions](https://en.m.wikipedia.org/wiki/List_of_common_misconceptions)
-- [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
 - [Interactive Music Theory Tools](https://muted.io/)
 - [Radio Garden](http://radio.garden/)
 - [The Useless Web](https://theuselessweb.com/)
