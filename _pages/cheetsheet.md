@@ -40,10 +40,10 @@ toc_sticky: true
 
 ## Cool websites
 - [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
+- [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/)
 - [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
 - [Inside the Great Pyramid](https://giza.mused.org/en/guided/266/inside-the-great-pyramid)
 - [Notable People](https://tjukanovt.github.io/notable-people)
 - [List of common misconceptions](https://en.m.wikipedia.org/wiki/List_of_common_misconceptions)
-- [Interactive Music Theory Tools](https://muted.io/)
 - [Radio Garden](http://radio.garden/)
 - [The Useless Web](https://theuselessweb.com/)
