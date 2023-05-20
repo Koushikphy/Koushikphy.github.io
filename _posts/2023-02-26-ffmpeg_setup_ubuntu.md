@@ -14,18 +14,38 @@ classes: wide
 excerpt: Linking libraries during building executable
 ---
 
-Setting up ffmpeg in ubuntu to record audio and video is a bit complicated. In windows we can easily get the sources with `ffmpeg -list_devices true -f dshow -i dummy`. But this won't work for linux system as it does not support `dshow` and  have to get the video and audio sources separately. First use `ffmpeg -hide_banner -sources` and it will list the video sources. Look for it closely to get the proper sources. For my case I found these (among a long list of unavailable options) are available for me,
+Setting up ffmpeg in ubuntu to record audio and video is a bit complicated. In windows we can easily get the sources with 
+```bash
+ffmpeg -list_devices true -f dshow -i dummy
+``` 
+But this won't work for linux system as it does not support `dshow` and  have to get the video and audio sources separately. First use 
+```bash
+ffmpeg -sources
+```
+and it will list the video sources. Look for it closely to get the proper sources. For my case I found these (among a long list of unavailable options) are available for me,
 ```bash
 Auto-detected sources for video4linux2,v4l2:
 /dev/video1 [GENERAL WEBCAM: GENERAL WEBCAM]
 /dev/video0 [GENERAL WEBCAM: GENERAL WEBCAM]
 ```
-Now look for available codec/format in that source with available resolution with `ffmpeg -f v4l2 -list_formats all -i /dev/video0`, which shows 
+Now look for available codec/format in that source with available resolution with 
+```bash
+ffmpeg -f v4l2 -list_formats all -i /dev/video0
+```
+which shows 
 ```bash
 [video4linux2,v4l2 @ 0x558c5c7d06c0] Compressed:       mjpeg :          Motion-JPEG : 1920x1080 1280x720 800x480 640x480 640x360 320x240 176x144 800x600 1920x1080
 [video4linux2,v4l2 @ 0x558c5c7d06c0] Raw       :     yuyv422 :           YUYV 4:2:2 : 640x480 640x360 320x240 176x144 640x480
 ```
-So wrapping it altogether, to record video I should be using `ffmpeg -f video4linux2 -vcodec mjpeg -video_size 1920x1080 -i /dev/video0`. Now this won’t record any audio as the input `/dev/video0` does not have any audio stream, now to get the audio source, use `arecord --list-devices`. For my system it shows, 
+So wrapping it altogether, to record video I should be using 
+```bash
+ffmpeg -f video4linux2 -vcodec mjpeg -video_size 1920x1080 -i /dev/video0
+```
+Now this won’t record any audio as the input `/dev/video0` does not have any audio stream, now to get the audio source, use 
+```bash
+arecord --list-devices
+```
+For my system it shows, 
 ```bash
 *** List of CAPTURE Hardware Devices ****
 card 0: PCH [HDA Intel PCH], device 0: ALC897 Analog [ALC897 Analog]
