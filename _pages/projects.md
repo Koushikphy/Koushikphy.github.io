@@ -132,6 +132,13 @@ feature_row5:
     url: "https://github.com/Koushikphy/PESMan"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+  - image_path: assets/images/mics/github.png
+    alt: "Nautilus Hider"
+    title: "Nautilus Hider"
+    excerpt: 'Easily hide files and folder in nautilus file manager'
+    url: "https://github.com/Koushikphy/Nautilus-Hider"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
