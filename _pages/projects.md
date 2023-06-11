@@ -84,14 +84,14 @@ feature_row3:
     url: "https://github.com/Koushikphy/kfutils"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: assets/images/mics/github.png
+  - image_path: assets/images/mics/kbib.gif
     alt: "kbib"
     title: "kbib"
     excerpt: "A command line tool to get bibtex information from DOIs and PDFs"
     url: "https://github.com/Koushikphy/kbib"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: assets/images/mics/github.png
+  - image_path: assets/images/mics/mfig.gif
     alt: "mfig"
     title: "mfig"
     excerpt: 'A tool for merging multiple figures into one'
@@ -108,7 +108,7 @@ feature_row4:
     url: "https://github.com/Koushikphy/Web-Printer"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: assets/images/mics/github.png
+  - image_path: assets/images/mics/openimage.gif
     alt: "Open-Image"
     title: "Open-Image"
     excerpt: 'A chrome extension to open product review images in full screen'
@@ -132,7 +132,7 @@ feature_row5:
     url: "https://github.com/Koushikphy/PESMan"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: assets/images/mics/github.png
+  - image_path: assets/images/mics/nh.gif
     alt: "Nautilus Hider"
     title: "Nautilus Hider"
     excerpt: 'Easily hide files and folder in nautilus file manager'
