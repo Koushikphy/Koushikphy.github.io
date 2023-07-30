@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: ""
 permalink: /
 ---
 
@@ -11,7 +11,7 @@ Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, 
 - __Numerical Programming__: 
   * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn Matplotlib, Seaborn etc.)
 - __High Performance Computing__: 
-  * OpenMP, MPI, CUDA, Job Scheduler (PBS, Slurm)
+  * OpenMP, MPI, GPU (CUDA), Job Scheduler (PBS, Slurm)
 - __Full Stack Web development__: 
   * _Front-end_: HTML, CSS, Javascript, React-Next JS
   * _Backend_: NodeJS, Django, Flask
@@ -21,4 +21,4 @@ Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, 
 - __Android & iOS App Development__: 
   * Flutter
 - __Miscellaneous__:
-  * Bash, SQL, Git, Heroku
+  * Bash, SQL, Git, CI/CD, Clound Deployment etc.

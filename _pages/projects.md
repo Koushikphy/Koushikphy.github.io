@@ -67,6 +67,64 @@ feature_row2:
     url: "https://github.com/Koushikphy/System-Status-Checker"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+  - image_path: assets/images/mics/telegram.jpeg
+    alt: "TeleSpy"
+    title: "TeleSpy"
+    excerpt: "Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot."
+    url: "https://github.com/Koushikphy/TeleSpy"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+
+feature_row3:
+  - image_path: assets/images/mics/github.png
+    alt: "kfutils"
+    title: "kfutils"
+    excerpt: 'A common file operation utility'
+    url: "https://github.com/Koushikphy/kfutils"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/kbib.gif
+    alt: "kbib"
+    title: "kbib"
+    excerpt: "A command line tool to get bibtex information from DOIs and PDFs"
+    url: "https://github.com/Koushikphy/kbib"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/mfig.gif
+    alt: "mfig"
+    title: "mfig"
+    excerpt: 'A tool for merging multiple figures into one'
+    url: "https://github.com/Koushikphy/mfig"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+
+feature_row4:
+  - image_path: assets/images/mics/github.png
+    alt: "Web Printer"
+    title: "Web Printer"
+    excerpt: 'Make printers without Ethernet or Wifi connection available on LAN'
+    url: "https://github.com/Koushikphy/Web-Printer"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/openimage.gif
+    alt: "Open-Image"
+    title: "Open-Image"
+    excerpt: 'A chrome extension to open product review images in full screen'
+    url: "https://github.com/Koushikphy/Open-Image"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/github.png
+    alt: "Django To Do App"
+    title: "Django To Do App"
+    excerpt: 'A To Do App & API built with Django 3 and django-rest-framework'
+    url: "https://github.com/Koushikphy/Django-ToDo-App"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+
+feature_row5:
   - image_path: assets/images/mics/github.png
     alt: "PESMan"
     title: "PESMan"
@@ -74,12 +132,18 @@ feature_row2:
     url: "https://github.com/Koushikphy/PESMan"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
-
-
+  - image_path: assets/images/mics/nh.gif
+    alt: "Nautilus Hider"
+    title: "Nautilus Hider"
+    excerpt: 'Easily hide files and folder in nautilus file manager'
+    url: "https://github.com/Koushikphy/Nautilus-Hider"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
 {% include feature_row  id="feature_row1" %}
 {% include feature_row  id="feature_row2" %}
-
+{% include feature_row  id="feature_row3" %}
+{% include feature_row  id="feature_row4" %}
+{% include feature_row  id="feature_row5" %}
