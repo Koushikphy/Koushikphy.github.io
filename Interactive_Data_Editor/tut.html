@@ -48,6 +48,8 @@
             padding-right: 10px;
             font-size: 1.2rem;
             background-image: linear-gradient(180deg, #f4fbe4 0%, #ecfdee 100%);
+            overflow: auto;
+            padding-bottom: 3em;
         }
 
         #main {
@@ -168,12 +170,14 @@
             <div style="text-align: center; margin-top: 13px; font-size: x-large; padding-bottom: 21px;">Reference</div>
             <ul>
                 <li><a href="#load-file">Load data from file</a> </li>
+                <li><a href="#save-data">Save data</a> </li>
                 <li><a href="#3d-viewer">3D Viewer</a> </li>
                 <li><a href="#edit-data">Edit data</a>
                     <ul>
                         <li><a href="#drag">Drag with mouse or keyboard</a> </li>
                         <li><a href="#smooth-out">Smooth out data</a> </li>
                         <li><a href="#auto-smoothing">Auto smoothing</a> </li>
+                        <li><a href="#auto-corrector">Auto corrector</a> </li>
                         <li><a href="#smoothing-multiple">Smooth multiple data</a> </li>
                         
                     </ul>
@@ -212,6 +216,18 @@
                 </video>
             </div>
 
+            <div class="tut">
+                <h2 id="save-data">Save Data</h2>
+                <p>
+                    Save the data in a file from <samp>File &gt; Save</samp> or by pressing <kbd>Ctrl+S</kbd>. 
+                    Once the data is saved, any consecutive <samp>Save</samp> command will save the data in the same file.
+                    To save in a different click on <samp>File &gt; Save as</samp>.
+                    You can set what columns to save and their format from <samp>File &gt; Save Preference</samp>.
+                </p>
+                <video class="lazy" width="100%" height="500" controls="controls" controls loop>
+                    <source data-src="images/savefile.mp4" type="video/mp4">
+                </video>
+            </div>
 
             <div class="tut">
                 <h2 id="3d-viewer">3D Viewer</h2>
@@ -271,6 +287,21 @@
                     <source data-src="images/autosmooth.mp4" type="video/mp4">
                 </video>
             </div>
+
+
+            <div class="tut">
+                <h3 id="auto-corrector">Auto corrector</h3>
+                <p>
+                    The Auto corrector feature identifies bad data points and try to correct them. Unlike the Auto smoothing feature, 
+                    it only modifies the data points it thinks are bad. 
+                    Open <samp>Edit > Auto Corrector</samp>, choose the desired threshold values to define what points are wrong points
+                    to get a corrected approximation to the original data. Click <samp>Apply</samp> to save the data.
+                </p>
+                <video class="lazy" width="100%" height="500" controls="controls">
+                    <source data-src="images/auto_corrector.mp4" type="video/mp4">
+                </video>
+            </div>
+
 
 
             <div class="tut">
