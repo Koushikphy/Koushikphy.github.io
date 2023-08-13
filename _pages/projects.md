@@ -46,7 +46,7 @@ feature_row1:
   - image_path: assets/images/mics/bezier_screenshot.gif
     alt: "Bézier Curves Visualization"
     title: "Bézier Curves Visualization"
-    excerpt: 'Bézier Curves Visualization using De Casteljau's algorithm of applying recursive linear interpolation'
+    excerpt: "Bézier Curves Visualization using De Casteljau's algorithm of applying recursive linear interpolation"
     url: "https://koushikphy.github.io/BezierCurve/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
