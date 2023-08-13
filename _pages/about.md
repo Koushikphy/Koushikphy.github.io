@@ -21,4 +21,4 @@ Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, 
 - __Android & iOS App Development__: 
   * Flutter
 - __Miscellaneous__:
-  * Bash, SQL, Git, CI/CD, Clound Deployment etc.
+  * Bash, SQL, Git, CI/CD, Cloud Deployment etc.

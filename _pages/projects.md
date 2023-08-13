@@ -46,7 +46,7 @@ feature_row1:
   - image_path: assets/images/mics/bezier_screenshot.gif
     alt: "Bézier Curves Visualization"
     title: "Bézier Curves Visualization"
-    excerpt: 'Bézier Curves Visualization applying recursive linear interpolation'
+    excerpt: 'Bézier Curves Visualization using De Casteljau's algorithm of applying recursive linear interpolation'
     url: "https://koushikphy.github.io/BezierCurve/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
@@ -87,7 +87,7 @@ feature_row3:
   - image_path: assets/images/mics/kbib.gif
     alt: "kbib"
     title: "kbib"
-    excerpt: "A command line tool to get bibtex information from DOIs and PDFs"
+    excerpt: "The perfect companion for effortless reference management"
     url: "https://github.com/Koushikphy/kbib"
     btn_label: "Learn More"
     btn_class: "btn--primary"

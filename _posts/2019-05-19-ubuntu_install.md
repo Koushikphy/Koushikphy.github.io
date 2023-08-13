@@ -86,7 +86,7 @@ For detailed guide about how to install them follow this guide [follow this guid
 
 I use these python libraries regularly, install them by running 
 ```
-pip install numpy scipy h5py matplotlib line_profiler snakeviz pandas nose setuptools sympy ipython
+pip install numpy scipy h5py matplotlib pandas nose setuptools sympy ipython
 ```
 You can install libraries like `numpy` or `scipy` from the ubuntu repo too, but they doesn't keep the latest version so I like to install them using the `pip` package manager.
 
