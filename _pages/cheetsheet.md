@@ -40,6 +40,7 @@ toc_sticky: true
 
 ## Cool websites
 - [What scientists must know about hardware to write fast code](https://viralinstruction.com/posts/hardware/)
+- [Putting the “You” in CPU](https://cpu.land/)
 - [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/)
 - [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
 - [Inside the Great Pyramid](https://giza.mused.org/en/guided/266/inside-the-great-pyramid)
