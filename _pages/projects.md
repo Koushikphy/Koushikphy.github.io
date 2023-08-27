@@ -126,6 +126,13 @@ feature_row4:
 
 feature_row5:
   - image_path: assets/images/mics/github.png
+    alt: "Tele Price Tracker"
+    title: "Tele Price Tracker"
+    excerpt: 'A Telegram bot that keeps track of prices for your products.'
+    url: "https://github.com/Koushikphy/Tele-Price-Tracker"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/mics/github.png
     alt: "PESMan"
     title: "PESMan"
     excerpt: 'A program suite to manage global PES calculations'
