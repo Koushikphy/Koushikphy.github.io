@@ -147,7 +147,7 @@ feature_row5:
     btn_class: "btn--primary"
 
 feature_row6:
-  - image_path: assets/images/mics/github.png
+  - image_path: assets/images/mics/shorts2video.gif
     alt: "Shorts2Video"
     title: "Shorts2Video"
     excerpt: 'A browser extension that opens YouTube Shorts as full videos with just one click'
