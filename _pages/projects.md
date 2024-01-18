@@ -116,20 +116,19 @@ feature_row4:
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/mics/github.png
-    alt: "Django To Do App"
-    title: "Django To Do App"
-    excerpt: 'A To Do App & API built with Django 3 and django-rest-framework'
-    url: "https://github.com/Koushikphy/Django-ToDo-App"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-
-
-feature_row5:
-  - image_path: assets/images/mics/github.png
     alt: "Tele Price Tracker"
     title: "Tele Price Tracker"
     excerpt: 'A Telegram bot that keeps track of prices for your products.'
     url: "https://github.com/Koushikphy/Tele-Price-Tracker"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+feature_row5:
+  - image_path: assets/images/mics/github.png
+    alt: "Django To Do App"
+    title: "Django To Do App"
+    excerpt: 'A To Do App & API built with Django 3 and django-rest-framework'
+    url: "https://github.com/Koushikphy/Django-ToDo-App"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/mics/github.png
@@ -146,6 +145,16 @@ feature_row5:
     url: "https://github.com/Koushikphy/Nautilus-Hider"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+
+feature_row6:
+  - image_path: assets/images/mics/github.png
+    alt: "Shorts2Video"
+    title: "Shorts2Video"
+    excerpt: 'A browser extension that opens YouTube Shorts as full videos with just one click'
+    url: "https://github.com/Koushikphy/Shorts2Video"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row %}
