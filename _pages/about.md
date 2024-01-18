@@ -8,8 +8,10 @@ Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, 
 
 
 ## 🛠️ Skills 
-- __Numerical Programming__: 
-  * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn Matplotlib, Seaborn etc.)
+- __Numerical Programming__:  
+  * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn etc.)  
+- __Machine Learning & Data Science__:  
+  * Scikit-Learn, Pytorch, Neural Network, Deep learning, CNN, NLP, Predictive Analysis  
 - __High Performance Computing__: 
   * OpenMP, MPI, GPU (CUDA), Job Scheduler (PBS, Slurm)
 - __Full Stack Web development__: 
