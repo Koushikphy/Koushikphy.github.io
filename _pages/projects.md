@@ -163,3 +163,4 @@ feature_row6:
 {% include feature_row  id="feature_row3" %}
 {% include feature_row  id="feature_row4" %}
 {% include feature_row  id="feature_row5" %}
+{% include feature_row  id="feature_row6" %}
