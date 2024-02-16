@@ -79,7 +79,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Koushikphy"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=GKTtNYEAAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
@@ -90,21 +90,21 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/koushik_naskar9"
+    - label: "CV"
+      icon: "ai ai-cv"
+      url: "/CV_Koushik_Naskar.pdf"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/koushik_naskar9"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Koushikphy"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/koushik.naskar5/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/koushik-naskar-457884200/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/koushik_naskar9"
 
 
 defaults:
