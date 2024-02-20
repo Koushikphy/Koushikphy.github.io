@@ -11,7 +11,6 @@ date: 2023-02-26
 toc: false
 layout: single
 classes: wide
-excerpt: Linking libraries during building executable
 ---
 
 Setting up ffmpeg in ubuntu to record audio and video is a bit complicated. In windows we can easily get the sources with 
