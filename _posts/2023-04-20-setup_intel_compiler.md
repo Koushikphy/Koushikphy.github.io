@@ -14,22 +14,26 @@ excerpt: Setting up Intel OneAPI compilers in Linux
 ---
 
 
-### Offline installation of Intel oneAPI Compilers:
+### Offline installation of Intel oneAPI Compilers
 
-Download the Intel oneAPI Base Toolkit for Linux install:
+Download the Intel oneAPI Base Toolkit for Linux install:  
 
-https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=linux&distributions=offline
+
+<a href='https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=linux&distributions=offline'>https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=linux&distributions=offline</a>
+
+
+
 
 The Base Toolkit contains the core tool set including the C/C++ compilers, Python interpreter, MKL, profilers etc. On ther hand, Intel oneAPI HPC Toolkit need to be installed as an add-on to the Base Toolkit in order to use things like Fortran compilers, MPI etc. 
 
-Download the Intel oneAPI HPC Toolkit for Linux and install:
+Download the Intel oneAPI HPC Toolkit for Linux and install:  
 
-https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&distributions=offline
+<a href='https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&distributions=offline'>https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html?operatingsystem=linux&distributions=offline</a>
 
 
 ---
 
-### Online installation of Intel oneAPI Compilers:
+### Online installation of Intel oneAPI Compilers
 
 Run the following commands
 
@@ -48,7 +52,7 @@ sudo apt-get install intel-oneapi-compiler-fortran intel-oneapi-mkl
 Note: The compilers will auto update each time `apt` updates softwares.
 
 
-### Set up the compilers:
+### Set up the compilers
 
 By default oneAPI is installed in the default directory (`/opt/intel/oneapi` or `~/intel/oneapi`). A `setvars.sh` file should be available in that folder (or whatever directory you have specified during the installation). Source that file in order to use the compilers. Assuming the default directory, one can add the following line in the `~/.bashrc` 
 ```bash
@@ -69,4 +73,4 @@ will only enable the compilers, mkl and MPI.
 
 ### Intel compilers moving to llvm
 Since 2021, Intel has started to adopt llvm for their compiler suit, getting rid of their own architecture. Read this blog to learn more:
-https://community.intel.com/t5/Blogs/Tech-Innovation/Tools/Intel-C-C-compilers-complete-adoption-of-LLVM/post/1305373. This means, Intel's famous `icc`/`ifort` will be deprecated in future, with `icc` being deprecated in 2024. Therefore, for any future project, it is highly recommended to use the llvm based `icx` and `ifx` as C/C++ and Fortran compiler, respectively.
+<a href='https://community.intel.com/t5/Blogs/Tech-Innovation/Tools/Intel-C-C-compilers-complete-adoption-of-LLVM/post/1305373'>Intel C/C++ compilers complete adoption of LLVM</a>. This means, Intel's famous `icc`/`ifort` will be deprecated in future, with `icc` being deprecated in 2024. Therefore, for any future project, it is highly recommended to use the llvm based `icx` and `ifx` as C/C++ and Fortran compiler, respectively.
