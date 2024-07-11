@@ -7,7 +7,7 @@ tags:
 category:
     - Linux
 date: 2023-04-20
-toc: false
+toc: true
 layout: single
 classes: wide
 excerpt: Setting up Intel OneAPI compilers in Linux
