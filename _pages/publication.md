@@ -16,3 +16,13 @@ K. Naskar, S. Ravi, S. Adhikari, M. Baer and N. Sathyamurthy,
 2. Effect of surface temperature on quantum dynamics of D2 on Cu(111) using a chemically accurate potential energy surface,  
 J. Dutta, K. Naskar, S. Adhikari, J. Meyer, and M. Somers,  
 [_Journal of Chemical Physics 157, 194112 (2022)._](https://aip.scitation.org/doi/10.1063/5.0109549)
+
+
+
+3. Beyond Born-Oppenheimer Theory for Spectroscopic and Scattering Processes,  
+B. Mukherjee, K. Naskar, S. Mukherjee, S. Ghosh, T. Sahoo and S. Adhikari,  
+[_International Reviews in Physical Chemistry, 38, 287 (2019)._](https://doi.org/10.1080/0144235X.2019.1672987)
+
+
+
+{: reversed="reversed"}
