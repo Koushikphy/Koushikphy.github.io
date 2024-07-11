@@ -7,11 +7,11 @@ classes: wide
 ---
 
 
-1. On the quantum dynamical treatment of surface vibrational modes for reactive scattering of H2 from Cu(111) at 925 K,  
+1. On the quantum dynamical treatment of surface vibrational modes for reactive scattering of H<sub>2</sub> from Cu(111) at 925 K,  
 M. K. Sah, K. Naskar, and S. Adhikari, B. Smits, J. Meyer and M. F. Somers,  
 [_Journal of Chemical Physics 161, 014306 (2024)_](https://doi.org/10.1063/5.0217639)
  
-1. Coupled 3D (J ≥ 0) Time-Dependent Wave Packet Calculation for the F + H2 Reaction on Accurate Ab Initio Multi-State Diabatic Potential Energy Surfaces,    
+1. Coupled 3D (J ≥ 0) Time-Dependent Wave Packet Calculation for the F + H<sub>2</sub> Reaction on Accurate Ab Initio Multi-State Diabatic Potential Energy Surfaces,    
 K. Naskar, S. Mukherjee, S. Ghosh and S. Adhikari,   
 [_Journal of Physical Chemistry A 128, 1438–1456 (2024)_](https://pubs.acs.org/doi/10.1021/acs.jpca.3c05590)
  
@@ -30,26 +30,26 @@ M. K. Sah, S. Mukherjee, K. Naskar, S. Hazra and S. Adhikari,
 [_International Journal of Quantum Chemistry 123, e27212 (2023)._](https://onlinelibrary.wiley.com/doi/10.1002/qua.27212)
 
 
-1. Coupled three-dimensional quantum mechanical wave packet study of proton transfer in H2+ + He collisions on accurate ab initio two-state diabatic potential energy surfaces,   
+1. Coupled three-dimensional quantum mechanical wave packet study of proton transfer in H<sub>2</sub><sup>+</sup> + He collisions on accurate ab initio two-state diabatic potential energy surfaces,   
 K. Naskar, S. Ghosh, S. Adhikari, M. Baer, and N. Sathyamurthy,   
 [_Journal of Chemical Physics. 159, 034302 (2023)._](https://doi.org/10.1063/5.0155646)
 
 
 
-1. Beyond Born-Oppenheimer Constructed Diabatic Potential Energy Surfaces for HeH2+,  
+1. Beyond Born-Oppenheimer Constructed Diabatic Potential Energy Surfaces for HeH<sub>2</sub><sup>+</sup>,  
 K. Naskar, S. Ravi, S. Adhikari, M. Baer and N. Sathyamurthy,  
 [_Journal of Physical Chemistry A 127, 3832 (2023)_](https://doi.org/10.1021/acs.jpca.3c01047)
 
 
 
-1. Effect of surface temperature on quantum dynamics of D2 on Cu(111) using a chemically accurate potential energy surface,  
+1. Effect of surface temperature on quantum dynamics of D<sub>2</sub> on Cu(111) using a chemically accurate potential energy surface,  
 J. Dutta, K. Naskar, S. Adhikari, J. Meyer, and M. Somers,  
 [_Journal of Chemical Physics 157, 194112 (2022)._](https://aip.scitation.org/doi/10.1063/5.0109549)
 
 
 
 
-1. Accurate Calculation of Rate Constant and Isotope Effect for F+H2 Reaction by Coupled 3D Time-dependent Wave Packet Method on the Newly Constructed ab initio Ground Potential Energy Surface,
+1. Accurate Calculation of Rate Constant and Isotope Effect for F+H<sub>2</sub> Reaction by Coupled 3D Time-dependent Wave Packet Method on the Newly Constructed ab initio Ground Potential Energy Surface,
 K. Naskar, S. Ghosh and S. Adhikari,
 [_Journal of Physical Chemistry A, 126, 3311 (2022)._](https://pubs.acs.org/doi/10.1021/acs.jpca.2c01209)
 
@@ -65,7 +65,7 @@ J. Dutta, S. Mukherjee, K. Naskar, S. Ghosh, B. Mukherjee, S. Ravi and S. Adhika
 [_Physical Chemistry Chemical Physics (Perspective), 22, 27496-27524 (2020)._](https://doi.org/10.1039/D0CP04052E)
 
 
-1. Beyond Born-Oppenheimer Constructed Diabatic Potential Energy Surfaces for F+H2 Reaction,  
+1. Beyond Born-Oppenheimer Constructed Diabatic Potential Energy Surfaces for F+H<sub>2</sub> Reaction,  
 B. Mukherjee, K. Naskar, S. Mukherjee, S. Ravi, K. R. Shamasundar, D. Mukhopadhyay and S. Adhikari,  
 [_Journal of Chemical Physics, 153, 174301/1-20 (2020)._](https://aip.scitation.org/doi/10.1063/5.0021885)
 
