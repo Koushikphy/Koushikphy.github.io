@@ -55,7 +55,7 @@ K. Naskar, S. Ghosh and S. Adhikari,
 
 
 
-1. A Beyond Born-Oppenheimer Treatment of C<sub>6</sub>H<sub>6</sub><sup>+<sup> Radical Cation for Diabatic Surfaces: Photoelectron Spectra of its Neutral Analogue Using Time-Dependent Discrete Variable Representation,  
+1. A Beyond Born-Oppenheimer Treatment of C<sub>6</sub>H<sub>6</sub><sup>+</sup> Radical Cation for Diabatic Surfaces: Photoelectron Spectra of its Neutral Analogue Using Time-Dependent Discrete Variable Representation,  
 S. Mukherjee, S. Ravi, K. Naskar, S. Sardar and S. Adhikari,  
 [_Journal of Chemical Physics, 154, 094306 (2021)._](https://aip.scitation.org/doi/10.1063/5.0040361)
 
