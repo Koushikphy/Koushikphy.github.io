@@ -6,7 +6,9 @@ tags:
 category:
     - Linux
 date: 2019-05-19
-toc: false
+toc: true
+layout: single
+classes: wide
 # toc_sticky: true
 ---
 Ubuntu is a great choice for a linux and the most popular one too. But just after installing ubuntu you have to set it up properly before using it. Now the following description are listed as the things I like to do after installing a fresh ubuntu installation, but the set up is completely depend on the user's choice and how they want to use their system. you can skip some steps if you feel you don't need them.
