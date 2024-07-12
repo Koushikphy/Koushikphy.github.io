@@ -18,9 +18,11 @@ Hi there. I'm Koushik Naskar. I'm a PhD student in School of Chemical Sciences, 
   * _Front-end_: HTML, CSS, Javascript, React-Next JS
   * _Backend_: NodeJS, Django, Flask
   * _Others_: Dash-Plotly, Streamlit
+- __Database__
+  * SQLite, PostgreSQL, MongoDB
 - __Cross Platform Software Development__: 
   * Electron JS, Flutter
 - __Android & iOS App Development__: 
   * Flutter
 - __Miscellaneous__:
-  * Bash, SQL, Git, CI/CD, Cloud Deployment etc.
+  * Big data, Shell scripting, Git, MS Office, CI/CD, Cloud Deployment etc.
