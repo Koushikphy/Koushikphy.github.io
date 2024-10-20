@@ -10,10 +10,23 @@ classes: wide
 
 <ol reversed>
   <li>
+    <p>Reactive scattering of H<sub>2</sub> on Cu(111) at 925 K: Effective Hartree potential vs sudden approximation,<br>
+B. Smits, M. K. Sah, <b>K. Naskar</b>, S. Adhikari, J. Meyer and M. F. Somers,<br>
+<a href="https://doi.org/10.1063/5.0231559"><em>Journal of Chemical Physics 161, 154702 (2024)</em></a></p>
+  </li>
+<li>
+<p>
+Ortho–Para Conversion for H<sup>+</sup>+H<sub>2</sub> Collision in Low Temperature: A Fully Close-Coupled Time-Dependent Wave Packet Study <br>
+S. Hazra, <b>K. Naskar<b>, S. Adhikari, A JC Varandas <br>
+<a href="https://doi.org/10.1021/acs.jpca.4c02243"><em>The Journal of Physical Chemistry A 128, 8833 (2024)</em></a></p>
+</li>
+
+  <li>
     <p>On the quantum dynamical treatment of surface vibrational modes for reactive scattering of H<sub>2</sub> from Cu(111) at 925 K,<br>
-M. K. Sah, <b>K. Naskar</b>, and S. Adhikari, B. Smits, J. Meyer and M. F. Somers,<br>
+M. K. Sah, <b>K. Naskar</b>, S. Adhikari, B. Smits, J. Meyer and M. F. Somers,<br>
 <a href="https://doi.org/10.1063/5.0217639"><em>Journal of Chemical Physics 161, 014306 (2024)</em></a></p>
   </li>
+
   <li>
     <p>Coupled 3D (J ≥ 0) Time-Dependent Wave Packet Calculation for the F + H<sub>2</sub> Reaction on Accurate Ab Initio Multi-State Diabatic Potential Energy Surfaces,  <br>
 <b>K. Naskar</b>, S. Mukherjee, S. Ghosh and S. Adhikari, <br>
