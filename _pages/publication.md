@@ -16,8 +16,8 @@ B. Smits, M. K. Sah, <b>K. Naskar</b>, S. Adhikari, J. Meyer and M. F. Somers,<b
   </li>
 <li>
 <p>
-Ortho–Para Conversion for H<sup>+</sup>+H<sub>2</sub> Collision in Low Temperature: A Fully Close-Coupled Time-Dependent Wave Packet Study <br>
-S. Hazra, <b>K. Naskar<b>, S. Adhikari, A JC Varandas <br>
+Ortho–Para Conversion for H<sup>+</sup>+H<sub>2</sub> Collision in Low Temperature: A Fully Close-Coupled Time-Dependent Wave Packet Study, <br>
+S. Hazra, <b>K. Naskar</b>, S. Adhikari, A JC Varandas <br>
 <a href="https://doi.org/10.1021/acs.jpca.4c02243"><em>The Journal of Physical Chemistry A 128, 8833 (2024)</em></a></p>
 </li>
 
