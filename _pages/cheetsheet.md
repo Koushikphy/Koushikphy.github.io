@@ -47,4 +47,5 @@ toc_sticky: true
 - [Notable People](https://tjukanovt.github.io/notable-people)
 - [List of common misconceptions](https://en.m.wikipedia.org/wiki/List_of_common_misconceptions)
 - [Radio Garden](http://radio.garden/)
+- [Paper Airplane Designs](https://www.foldnfly.com/)
 - [The Useless Web](https://theuselessweb.com/)

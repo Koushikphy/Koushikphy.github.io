@@ -87,12 +87,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/koushik.naskar3"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/koushikphy9"
-    - label: "Curriculum Vitae"
-      icon: "ai ai-cv"
-      url: "/CV_Koushik_Naskar.pdf"
 
 footer:
   links:
