@@ -9,21 +9,21 @@ Hi there. I'm Koushik Naskar, a Data Scientist by profession with a Ph.D. in Com
 
 ## 🛠️ Skills 
 
-* **🖥️ Programming Languages**
+* **🖥️ Programming Languages**  
   Python, C, C++, Fortran, HTML, CSS, JavaScript/Node.js, Shell Scripting
 
-* **🤖 Machine Learning**
+* **🤖 Machine Learning**  
   Pandas, Scikit-Learn, PyTorch, Deep Learning, Predictive Modelling, Time Series Forecasting, Image Processing
 
-* **🌐 Full Stack Web Development**
+* **🌐 Full Stack Web Development**  
   HTML, CSS, JavaScript, Django, Flask, Dash-Plotly, Streamlit
 
-* **💾 Database**
+* **💾 Database**  
   SQLite, PostgreSQL, MongoDB
 
-* **🚀 High Performance Computing**
+* **🚀 High Performance Computing**  
   OpenMP, MPI, OpenACC, GPU (CUDA), Job Scheduler (PBS, SLURM), Performance Optimization
 
-* **🧰 Miscellaneous**
+* **🧰 Miscellaneous**  
   SQL, Git, LaTeX, CI/CD, Shell Scripting, Cloud Deployment, etc.
 
