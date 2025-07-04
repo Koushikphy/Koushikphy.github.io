@@ -3,8 +3,7 @@ title: ""
 permalink: /
 ---
 
-Hi there. I'm Koushik Naskar, a Machine Learning and Data Science enthusiast with a Ph.D. in Computational Chemistry, and nearly 10 years of
-experience in Python, C, Fortran and high-performance computing. I love learning about technologies and building tools to automate stuff. Check out the [Projects page](/projects) to know more about my works.
+Hi there. I'm Koushik Naskar, a Data Scientist by profession with a Ph.D. in Computational Chemistry. I love learning about technologies and building tools to automate stuff. Check out the [Projects page](/projects) to know more about tools I built.
 
 
 
