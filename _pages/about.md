@@ -8,21 +8,22 @@ Hi there. I'm Koushik Naskar, a Data Scientist by profession with a Ph.D. in Com
 
 
 ## 🛠️ Skills 
-- __Numerical Programming__:  
-  * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn etc.)  
-- __Machine Learning & Data Science__:  
-  * Scikit-Learn, Pytorch, Neural Network, Deep learning, CNN, NLP, Predictive Analysis  
-- __High Performance Computing__: 
-  * OpenMP, MPI, GPU (CUDA), Job Scheduler (PBS, Slurm)
-- __Full Stack Web development__: 
-  * _Front-end_: HTML, CSS, Javascript, React-Next JS
-  * _Backend_: NodeJS, Django, Flask
-  * _Others_: Dash-Plotly, Streamlit
-- __Database__
-  * SQLite, PostgreSQL, MongoDB
-- __Cross Platform Software Development__: 
-  * Electron JS, Flutter
-- __Android & iOS App Development__: 
-  * Flutter
-- __Miscellaneous__:
-  * Big data, Shell scripting, Git, MS Office, CI/CD, Cloud Deployment etc.
+
+* **🖥️ Programming Languages**
+  Python, C, C++, Fortran, HTML, CSS, JavaScript/Node.js, Shell Scripting
+
+* **🤖 Machine Learning**
+  Pandas, Scikit-Learn, PyTorch, Deep Learning, Predictive Modelling, Time Series Forecasting, Image Processing
+
+* **🌐 Full Stack Web Development**
+  HTML, CSS, JavaScript, Django, Flask, Dash-Plotly, Streamlit
+
+* **💾 Database**
+  SQLite, PostgreSQL, MongoDB
+
+* **🚀 High Performance Computing**
+  OpenMP, MPI, OpenACC, GPU (CUDA), Job Scheduler (PBS, SLURM), Performance Optimization
+
+* **🧰 Miscellaneous**
+  SQL, Git, LaTeX, CI/CD, Shell Scripting, Cloud Deployment, etc.
+
