@@ -15,15 +15,18 @@ Hi there. I'm Koushik Naskar, a Data Scientist by profession with a Ph.D. in Com
 * **🤖 Machine Learning**  
   Pandas, Scikit-Learn, PyTorch, Deep Learning, Predictive Modelling, Time Series Forecasting, Image Processing
 
-* **🌐 Full Stack Web Development**  
-  HTML, CSS, JavaScript, Django, Flask, Dash-Plotly, Streamlit
+* **🧠 Generative AI**  
+  LLMs, Prompt Engineering, Fine-tuning, RAG, GraphRAG, LangChain, OpenAI API
 
-* **💾 Database**  
-  SQLite, PostgreSQL, MongoDB
+* **🌐 Full Stack Web Development**  
+  HTML, CSS, JavaScript, Django, Flask, Dash-Plotly
+
+* **📈 Quantitative Finance**  
+  Portfolio Optimization, Asset Price Modelling, Risk Management, Value-at-Risk (VaR), Monte Carlo Simulations
 
 * **🚀 High Performance Computing**  
   OpenMP, MPI, OpenACC, GPU (CUDA), Job Scheduler (PBS, SLURM), Performance Optimization
 
 * **🧰 Miscellaneous**  
-  SQL, Git, LaTeX, CI/CD, Shell Scripting, Cloud Deployment, etc.
+  SQL, Git, LaTeX, CI/CD, Dash, Statistical Analysis
 
