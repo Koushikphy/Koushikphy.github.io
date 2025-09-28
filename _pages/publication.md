@@ -10,6 +10,12 @@ classes: wide
 
 <ol reversed>
   <li>
+    <p>
+Beyond Born-Oppenheimer Constructed Diabatic Potential Energy Surfaces for H<sub>3</sub>: Adiabatic and Diabatic Reaction Probabilities,<br>
+A. Ghosh, A. Roy, A. Kumar,  <b>K. Naskar</b>, S. Ravi and S. Adhikari <br>
+<a href="https://doi.org/10.1021/acs.jpca.5c03032"><em>The Journal of Physical Chemistry A 129, 6315 (2025)</em></a></p>
+  </li>
+  <li>
     <p>Reactive scattering of H<sub>2</sub> on Cu(111) at 925 K: Effective Hartree potential vs sudden approximation,<br>
 B. Smits, M. K. Sah, <b>K. Naskar</b>, S. Adhikari, J. Meyer and M. F. Somers,<br>
 <a href="https://doi.org/10.1063/5.0231559"><em>Journal of Chemical Physics 161, 154702 (2024)</em></a></p>
