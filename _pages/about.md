@@ -9,24 +9,31 @@ Hi there. I'm Koushik Naskar, a Data Scientist by profession with a Ph.D. in Com
 
 ## 🛠️ Skills 
 
-* **🖥️ Programming Languages**  
-  Python, C, C++, Fortran, HTML, CSS, JavaScript/Node.js, Shell Scripting
+* **🖥️ Programming Languages:**    Python, C, C++, Fortran, HTML, CSS, JavaScript/Node.js, Shell Scripting
 
-* **🤖 Machine Learning**  
-  Pandas, Scikit-Learn, PyTorch, Deep Learning, Predictive Modelling, Time Series Forecasting, Image Processing
+* **🤖 Machine Learning:**    Pandas, Scikit-Learn, PyTorch, Deep Learning, Predictive Modelling, Time Series Forecasting, Image Processing
 
-* **🧠 Generative AI**  
-  LLMs, Prompt Engineering, Fine-tuning, RAG, GraphRAG, LangChain, OpenAI API
+* **🧠 Generative AI:**    LLMs, Prompt Engineering, Fine-tuning, RAG, GraphRAG, LangChain, OpenAI API
 
-* **🌐 Full Stack Web Development**  
-  HTML, CSS, JavaScript, Django, Flask, Dash-Plotly
+* **🌐 Full Stack Web Development:**    HTML, CSS, JavaScript, Django, Flask, Dash-Plotly
 
-* **📈 Quantitative Finance**  
-  Portfolio Optimization, Asset Price Modelling, Risk Management, Value-at-Risk (VaR), Monte Carlo Simulations
+<!---  * **📈 Quantitative Finance**    Portfolio Optimization, Asset Price Modelling, Risk Management, Value-at-Risk (VaR), Monte Carlo Simulations -->
 
-* **🚀 High Performance Computing**  
-  OpenMP, MPI, OpenACC, GPU (CUDA), Job Scheduler (PBS, SLURM), Performance Optimization
+* **🚀 High Performance Computing:**    OpenMP, MPI, OpenACC, GPU (CUDA), Job Scheduler (PBS, SLURM), Performance Optimization
 
-* **🧰 Miscellaneous**  
-  SQL, Git, LaTeX, CI/CD, Dash, Statistical Analysis
+* **🧰 Miscellaneous:**    SQL, Git, LaTeX, CI/CD, Dash, Statistical Analysis
 
+
+## 🎓 Education
+
+* **Doctor of Philosophy (PhD)** — *Computational & Quantum Chemistry*  
+  📍 Indian Association for the Cultivation of Science, Kolkata  
+  📅 Jun 2018 – Jul 2024  
+
+* **Master of Science (MSc)** — *Physics*  
+  📍 Indian Institute of Technology, Guwahati  
+  📅 2015 – 2017  
+
+* **Bachelor of Science (BS)** — *Physics*  
+  📍 Presidency University, Kolkata  
+  📅 2012 – 2015  
