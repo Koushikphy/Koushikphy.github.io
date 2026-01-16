@@ -4,7 +4,7 @@ permalink: /
 ---
 
 
-Hi there, I'm Koushik Naskar, a Data Scientist with a Ph.D. in Computational Sciences, working at the intersection of AI, automation, and real-world problem solving.
+Hi there, I'm **Koushik Naskar**, a Data Scientist with a Ph.D. in Computational Sciences, working at the intersection of AI, automation, and real-world problem solving.
 
 Professionally, I build AI-driven tools to automate workflows, improve efficiency, and turn ideas into scalable solutions. My work focuses on applying advanced GenAI techniques to solve real-world problems and create practical impact across complex systems.
 
@@ -30,7 +30,7 @@ In my free time, I enjoy exploring new technologies, experimenting with ideas, a
 
 ## 🎓 Education
 
-* **Doctor of Philosophy (PhD)** — *Computational & Quantum Chemistry*  
+* **Doctor of Philosophy (PhD)** — *Computational Quantum Simulation*  
   📍 Indian Association for the Cultivation of Science, Kolkata  
   📅 Jun 2018 – Jul 2024  
 
