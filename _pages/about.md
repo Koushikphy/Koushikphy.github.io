@@ -11,6 +11,22 @@ Professionally, I build AI-driven tools to automate workflows, improve efficienc
 
 In my free time, I enjoy exploring new technologies, experimenting with ideas, and building personal projects  that start as ideas and often become useful tools. Check out the [Projects page](/projects) to know more about the tools I built.
 
+
+## 🎓 Education
+
+* **Doctor of Philosophy (PhD)** — *Computational Quantum Simulation*  
+  📍 Indian Association for the Cultivation of Science, Kolkata  
+  📅 Jun 2018 – Jul 2024  
+
+* **Master of Science (MSc)** — *Physics*  
+  📍 Indian Institute of Technology, Guwahati  
+  📅 2015 – 2017  
+
+* **Bachelor of Science (BS)** — *Physics*  
+  📍 Presidency University, Kolkata  
+  📅 2012 – 2015  
+
+
 ## 🛠️ Skills 
 
 * **🖥️ Programming Languages:**    Python, C, C++, Fortran, HTML, CSS, JavaScript/Node.js, Shell Scripting
@@ -27,17 +43,3 @@ In my free time, I enjoy exploring new technologies, experimenting with ideas, a
 
 * **🧰 Miscellaneous:**    SQL, Git, LaTeX, CI/CD, Dash, Statistical Analysis
 
-
-## 🎓 Education
-
-* **Doctor of Philosophy (PhD)** — *Computational Quantum Simulation*  
-  📍 Indian Association for the Cultivation of Science, Kolkata  
-  📅 Jun 2018 – Jul 2024  
-
-* **Master of Science (MSc)** — *Physics*  
-  📍 Indian Institute of Technology, Guwahati  
-  📅 2015 – 2017  
-
-* **Bachelor of Science (BS)** — *Physics*  
-  📍 Presidency University, Kolkata  
-  📅 2012 – 2015  
