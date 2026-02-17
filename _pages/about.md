@@ -14,7 +14,7 @@ In my free time, I enjoy exploring new technologies, experimenting with ideas, a
 
 ## 🎓 Education
 
-* **Doctor of Philosophy (PhD)** — *Computational Quantum Simulation*  
+* **Doctor of Philosophy (PhD)** — *Quantum Reaction Dynamics*  
   📍 Indian Association for the Cultivation of Science, Kolkata  
   📅 Jun 2018 – Jul 2024  
 
