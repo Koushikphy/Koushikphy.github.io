@@ -42,8 +42,8 @@ In my free time, I enjoy exploring emerging technologies, experimenting with new
 
 * **🚀 High Performance Computing:**    OpenMP, MPI, OpenACC, CUDA, GPU Computing, Parallel/Distributed Computing, Job Scheduling (PBS, SLURM), Performance & Memory Optimization
 
-* **📊 Data Engineering & Databases:**     SQL, Database Design, ETL Pipelines, Data Warehousing, Data Cleaning & Transformation, Query Optimization
+* **📊 Data Engineering:**     SQL, ETL Pipelines, Data Warehousing, Data Cleaning & Transformation, Query Optimization
 
 
-* **🧰 Miscellaneous:**    SQL, Git, LaTeX, Linux Environment, Docker, CI/CD Pipelines, Docker, Statistical Analysis, Scientific Computing
+* **🧰 Miscellaneous:**   Git, LaTeX, Linux Environment, Docker, CI/CD Pipelines, Docker, Statistical Analysis, Scientific Computing
 
