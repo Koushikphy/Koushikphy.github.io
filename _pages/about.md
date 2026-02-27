@@ -6,10 +6,10 @@ permalink: /
 
 Hi there, I'm **Koushik Naskar**, a Data Scientist with a Ph.D. in Computational Sciences, working at the intersection of AI, automation, and real-world problem solving.
 
-Professionally, I build AI-driven tools to automate workflows, improve efficiency, and turn ideas into scalable solutions. My work focuses on applying advanced GenAI techniques to solve real-world problems and create practical impact across complex systems.
+Professionally, I design and develop AI solutions that bring ideas to life through automation, smarter decision-making, and scalable innovation. My work focuses on applying Generative AI to create meaningful real-world impact across industries, from operations to digital products.
 
 
-In my free time, I enjoy exploring new technologies, experimenting with ideas, and building useful tools. Check out the [Projects page](/projects) to know more about the tools I built.
+In my free time, I enjoy exploring emerging technologies, experimenting with new ideas, and building tools that solve practical problems. I'm constantly curious about how technology can be applied in creative and meaningful ways. Check out the [Projects page](/projects) to learn more about the tools and solutions I've built.
 
 
 ## 🎓 Education
