@@ -29,18 +29,18 @@ In my free time, I enjoy exploring emerging technologies, experimenting with new
 
 ## 🛠️ Skills 
 
-* **🖥️ Programming Languages:**    Python, C, C++, Fortran, Bash/Shell Scripting, JavaScript, HTML5, CSS3, Object-Oriented Programming (OOP), Data Structures & Algorithms, Data Visualization
+* **🖥️ Programming Languages:**    Python, C, C++, Fortran, Bash/Shell Scripting, JavaScript, HTML5, CSS3, OOP, DSA, Data Visualization
 
 
-* **🤖 Machine Learning:**    Pandas, NumPy, Scikit-Learn, PyTorch, Deep Learning, Feature Engineering, Supervised & Unsupervised Learning, Predictive Modelling, Time Series Forecasting, Statistical Modeling, Image Processing
+* **🤖 Machine Learning:**    Pandas, NumPy, Scikit-Learn, PyTorch, Deep Learning, Feature Engineering, Predictive Modelling, Time Series Forecasting, Image Processing
 
-* **🧠 Generative AI:**    LLMs, Prompt Engineering, Fine-tuning (LoRA/PEFT), RAG, GraphRAG, LangChain, Vector Databases, Embeddings, OpenAI API, Agentic AI
+* **🧠 Generative AI:**    LLMs, Prompt Engineering, Fine-tuning, RAG, GraphRAG, LangChain, Vector Databases, OpenAI API, Agentic AI
 
-* **🌐 Full Stack Web Development:**    Node.js, Django, Flask, Dash-Plotly, Backend Architecture, API Development & Integration, Interactive Data Dashboards, Authentication Systems, Responsive Web Design
+* **🌐 Full Stack Web Development:**    Node.js, Django, Flask, Dash-Plotly, API Development & Integration, Interactive Data Dashboards, Authentication Systems
 
 <!---  * **📈 Quantitative Finance**    Portfolio Optimization, Asset Price Modelling, Risk Management, VaR, MC Simulations -->
 
-* **🚀 High Performance Computing:**    OpenMP, MPI, OpenACC, CUDA Programming, GPU Computing, Parallel Algorithms, Distributed Computing, Job Scheduling (PBS, SLURM), Performance Profiling, Memory Optimization
+* **🚀 High Performance Computing:**    OpenMP, MPI, OpenACC, CUDA, GPU Computing, Parallel/Distributed Computing, Job Scheduling (PBS, SLURM), Performance & Memory Optimization
 
 * **📊 Data Engineering & Databases:**     SQL, Database Design, ETL Pipelines, Data Warehousing, Data Cleaning & Transformation, Query Optimization
 
